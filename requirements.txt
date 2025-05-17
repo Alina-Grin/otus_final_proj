@@ -1,0 +1,6 @@
+kafka-python
+flask
+prometheus_client
+clickhouse-connect
+gunicorn
+boto3
